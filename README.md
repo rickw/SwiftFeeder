@@ -4,6 +4,7 @@ A simple iTunes RSS feed reader.
 ## Issues Outstanding
 * Add assets.
 * DRY out favoriting code.
+* Add accessability tags for testing UI.
 * Add more tests.
 * Possible refactoring of some code.
 
