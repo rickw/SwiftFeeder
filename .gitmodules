@@ -1,0 +1,3 @@
+[submodule "HanekeSwift"]
+	path = HanekeSwift
+	url = git@github.com:rickw/HanekeSwift.git
