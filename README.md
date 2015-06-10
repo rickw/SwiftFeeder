@@ -9,3 +9,6 @@ A simple iTunes RSS feed reader.
 
 ## To Build
 Either clone --recursive or do submudule init & update
+
+### Note
+mogenerator class was collapsed into one for simplicity.
