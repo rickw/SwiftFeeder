@@ -13,3 +13,6 @@ Either clone --recursive or do submudule init & update
 
 ### Note
 mogenerator class was collapsed into one for simplicity.
+
+### Credit
+I would like to thank SwiftyJSON for a great JSON parser.
